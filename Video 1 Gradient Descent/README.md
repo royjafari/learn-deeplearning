@@ -1,0 +1,1 @@
+This folder has the codes that was shown in the YouTube Video Gradient Descent with an Example (https://youtu.be/NTq6ZPyNW_k)
